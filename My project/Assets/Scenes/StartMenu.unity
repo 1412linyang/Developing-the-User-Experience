@@ -871,6 +871,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 506750940}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &577515432
 GameObject:
   m_ObjectHideFlags: 0
@@ -1256,6 +1257,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 619590247}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> cf13d6ebed3acdd4d26b631b6afcd1e9cd39bd71
 --- !u!1 &659793914
 GameObject:
   m_ObjectHideFlags: 0
@@ -1954,7 +1957,6 @@ RectTransform:
   m_Children:
   - {fileID: 921152800}
   - {fileID: 506750941}
-  - {fileID: 1125057161}
   - {fileID: 1506126306}
   - {fileID: 744262303}
   - {fileID: 2109113828}
@@ -1966,6 +1968,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+<<<<<<< HEAD
 --- !u!114 &1007274779
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2126,6 +2129,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1125057160}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> cf13d6ebed3acdd4d26b631b6afcd1e9cd39bd71
 --- !u!1 &1242415423
 GameObject:
   m_ObjectHideFlags: 0
@@ -2331,7 +2336,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300020, guid: 1eaee135ce037439d925cee5e41ce026, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 5dd8420f59370fa49823e1b8d281aebd, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -2401,8 +2406,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300022, guid: 1eaee135ce037439d925cee5e41ce026, type: 3}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 5dd8420f59370fa49823e1b8d281aebd, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2583,7 +2588,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300020, guid: 1eaee135ce037439d925cee5e41ce026, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 5dd8420f59370fa49823e1b8d281aebd, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -2641,8 +2646,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300022, guid: 1eaee135ce037439d925cee5e41ce026, type: 3}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 5dd8420f59370fa49823e1b8d281aebd, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2894,6 +2899,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &2007518310
 GameObject:
   m_ObjectHideFlags: 0
@@ -3169,6 +3175,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2022636462}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> cf13d6ebed3acdd4d26b631b6afcd1e9cd39bd71
 --- !u!1 &2109113827
 GameObject:
   m_ObjectHideFlags: 0
@@ -3239,7 +3247,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300020, guid: 1eaee135ce037439d925cee5e41ce026, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 5dd8420f59370fa49823e1b8d281aebd, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -3297,8 +3305,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300022, guid: 1eaee135ce037439d925cee5e41ce026, type: 3}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 5dd8420f59370fa49823e1b8d281aebd, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -3320,8 +3328,15 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1804310870}
+<<<<<<< HEAD
   - {fileID: 1007274778}
   - {fileID: 1499241549}
   - {fileID: 349076395}
   - {fileID: 347324694}
   - {fileID: 587968464}
+=======
+  - {fileID: 1499241549}
+  - {fileID: 1007274778}
+  - {fileID: 349076395}
+  - {fileID: 347324694}
+>>>>>>> cf13d6ebed3acdd4d26b631b6afcd1e9cd39bd71
